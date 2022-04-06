@@ -16,6 +16,7 @@ const App = () => {
       <button style={hOneTitle} onClick={onClickButton}>
         ボタンですよ
       </button>
+      <p style={{ color: "#999" }}>コメント</p>
     </>
   );
 };
